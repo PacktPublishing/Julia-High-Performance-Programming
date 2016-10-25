@@ -1,5 +1,5 @@
 # Julia High Performance Programming
-This is the code repository for [Julia High Performance Programming]()
+This is the code repository for [Julia High Performance Programming](), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##What you will learn
 

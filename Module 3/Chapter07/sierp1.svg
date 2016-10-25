@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.2"
+     width="100mm" height="86.6mm" viewBox="0 0 100 86.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke="#000000" fill="#000000" fill-opacity="0.000" stroke-width="0.2" id="fig-777ba1ce5a604eee909a9ace4743cb47-element-1">
+  <path d="M100,86.6 L 50 86.6 75 43.3 z"/>
+  <path d="M50,86.6 L 0 86.6 25 43.3 z"/>
+  <path d="M75,43.3 L 25 43.3 50 0 z"/>
+</g>
+</svg>

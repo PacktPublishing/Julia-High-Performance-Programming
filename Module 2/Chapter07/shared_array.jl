@@ -1,0 +1,1 @@
+S=SharedArray( Float64, (100, 100, 5), pids=[2,3,4,5]);
